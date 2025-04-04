@@ -1,0 +1,51 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+</style>
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body,html {
+
+width: 100vw;
+height: 100vh;
+
+}
+
+form{
+
+    background-color: rgb(rgb(4, 0, 255), green, blue);
+    width: 20%;
+    margin: auto;
+    margin-top: 70px;
+    padding: 5px;
+    border: 2px black solid;
+    border-radius: 10px;
+    box-shadow: 10px 19px 201px black;
+
+}
+div{
+    padding-bottom: 3px;
+    text-align: center ;
+}
+
+button{
+    margin-top: 5px;
+    margin-left: 25%;
+    padding: 3px;
+    color: white;
+    background-color: #4646f9;
+    border: none;
+    border-radius: 3px; ;
+    width: 50%;
+}
+
+button:hover{
+
+    background-color: #0404f3;
+    border: 3px black solid;
+}
